@@ -7,3 +7,6 @@
 
 # let's conflict
 
+<!-- test 3 -->
+
+#second change
